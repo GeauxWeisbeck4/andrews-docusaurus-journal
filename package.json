@@ -1,7 +1,7 @@
 {
-  "name": "docusaurus",
-  "version": "0.0.0",
-  "private": true,
+  "name": "andrews-docusaurus-journal",
+  "version": "0.0.1",
+  "private": false,
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
@@ -41,5 +41,5 @@
   "engines": {
     "node": ">=16.14"
   },
-  "description": "Docusaurus example project"
+  "description": "The developer journal for Andrew Weisbeck, built with Docusaurus"
 }
